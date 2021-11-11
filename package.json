@@ -8,9 +8,14 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "27.0.2",
+    "@types/node": "16.11.7",
+    "@types/react": "17.0.34",
+    "@types/react-dom": "17.0.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "typescript": "4.4.4",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
@@ -36,5 +41,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "To get started with this course, clone this repo and follow these commands:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildspace/gif-portal-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buildspace/gif-portal-starter/issues"
+  },
+  "homepage": "https://github.com/buildspace/gif-portal-starter#readme"
 }
